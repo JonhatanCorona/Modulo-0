@@ -1,2 +1,1 @@
-# Modulo-0
-Este es un repositorio de prueba del modulo 0.
+Este proyecto es una prueba para clonar un repositorio desde github hasta mi computadora.
